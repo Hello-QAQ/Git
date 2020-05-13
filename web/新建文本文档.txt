@@ -1,0 +1,20 @@
+HTML css HTML5 css3
+
+js jQuery Ajax
+
+webpack node·js git
+
+Vue mvvm Vue生命周期 路由 组件 http请求 vuex
+axios拦截器 路由守卫 懒加载
+
+es6 浏览器兼容性以及性能优化 
+
+微信小程序 
+
+http协议tcp/IP的原理
+
+json事件处理机制
+
+typescript
+
+控制台调试
